@@ -7,3 +7,4 @@ elsif meal_choice == veg1 || meal_choice == veg2
   puts "a plate with {veg1} and {veg2}"
 else 
   puts "choose one othe three category"
+  
